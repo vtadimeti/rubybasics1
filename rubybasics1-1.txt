@@ -1,0 +1,7 @@
+Object - An object is defined as an instance of a class. 
+Class - A class contains data mambers and menber functions. A class is generally used to enclose/bind data.
+Inheritance- As the name suggests, it is a concept in which one class derives the properties from an other class. 
+             The child class derives properties from the parent class. Inheritance helps in code re-use.
+Polymorphism- It is generally known as one is to many, or one interface, many methods. In happens when there are one or more classes related to each other by inheritance.
+Encapsulation- The binding of data members and member functions that do not allow external interference.
+Abstraction - In simple terms one can describe it as preserving information that is required to those who want to see it and hiding it from those who do not have the necessity to see it.

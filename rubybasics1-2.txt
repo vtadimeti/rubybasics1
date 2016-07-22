@@ -1,0 +1,7 @@
+irb(main):001:0> print "ruby"
+ruby=>nil
+irb(main):002:0>puts"ruby"
+ruby
+=> nil
+
+The difference between puts and print is that puts brings it to the next line.It adds a new line and print doesnt.

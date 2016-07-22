@@ -1,0 +1,8 @@
+a = 20, b = 10
+in the irb we type the following. it s not necessary to make this an .rb file since this can be done on the terminal.
+1) a = 20
+2) b = 10
+3) a + b
+4) a - b
+5) a * b
+6) a / b
